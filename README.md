@@ -1,1 +1,2 @@
-Seller's Admin page with total stock value
+Seller's Admin page with total stock value  
+
